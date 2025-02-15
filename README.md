@@ -37,7 +37,8 @@ The main code for fetching data and rendering the table is in the app directory 
 
 ### Running the Project
    To run the project locally:
+   
    ```bash
     npm run dev
     
-Open http://localhost:3000 in your browser to see the application in action.
+- Open `http://localhost:3000` in your browser to see the application in action.
