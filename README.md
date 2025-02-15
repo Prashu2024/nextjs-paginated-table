@@ -36,9 +36,8 @@ Follow these steps to set up the project locally.
 The main code for fetching data and rendering the table is in the app directory (e.g., app/page.js). You can modify this file to suit your design and functionality needs.
 
 ### Running the Project
-To run the project locally:
-
-    ```bash
+   To run the project locally:
+   ```bash
     npm run dev
     
 Open http://localhost:3000 in your browser to see the application in action.
